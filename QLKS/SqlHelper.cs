@@ -10,7 +10,7 @@ namespace QLKS
 {
     class SqlHelper
     {
-		public static string ConnectString = @"Data Source=BVCN88LTV;Initial Catalog=QLKS;Integrated Security=True";
+		public static string ConnectString = @"Data Source=BVCN88LTV;Initial Catalog=QLKS;Integrated Security=True"; //đổi lại data source theo connection của bạn 
 		public SqlHelper()
 		{
 			//
