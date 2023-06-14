@@ -1,0 +1,44 @@
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.mainForm.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmChangeProfile.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmKH.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmLoaiPhong.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmLogin.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmNV.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmPhong.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmSDDichVu.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmSearchKH.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmSearchPhong.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmTBTrangThietBi.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmThanhToanPhong.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.frmThietBi.resources
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\BVCN 88\source\repos\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmChangeProfile.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmKH.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmLoaiPhong.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmLogin.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmNV.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmPhong.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmSDDichVu.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmSearchKH.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmSearchPhong.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmTBTrangThietBi.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmThanhToanPhong.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.frmThietBi.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.mainForm.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\OneDrive\Máy tính\G2 Vô địch\Dứa\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.pdb
